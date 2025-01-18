@@ -1,2 +1,2 @@
   # React-Swiggy
-Swiggy build using React
+ Swiggy build using React
